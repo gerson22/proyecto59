@@ -1,5 +1,5 @@
-mport React, { Component } from 'react'
-
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 import AuthScreen from './containers/AuthScreen'
 import HomeScreen from './containers/HomeScreen'
 

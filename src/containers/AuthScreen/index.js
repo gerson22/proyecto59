@@ -1,8 +1,9 @@
-import React, { Component, PropTypes } from 'react'
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
 import { KeyboardAvoidingView, LayoutAnimation, Platform, StyleSheet, UIManager } from 'react-native'
 import { Image, View } from 'react-native-animatable'
 
-import imgLogo from '../../images/logo.png'
+import imgLogo from '../../images/logo-prev.png'
 import metrics from '../../config/metrics'
 
 import Opening from './Opening'
